@@ -46,7 +46,8 @@
 1. Englehardt S., Acar G., Narayanan A. *No boundaries: Exfiltration of personal data by session-replay scripts.* Отчёт исследовательской группы Princeton CITP, представленный на FTC PrivacyCon (первичный источник — материалы регулятора): https://www.ftc.gov/system/files/documents/public_events/1223263/panel04_no_boundaries.pdf
 2. Acar G., Englehardt S., Narayanan A. *No boundaries: data exfiltration by third parties embedded on web pages.* Proceedings of the 20th Privacy Enhancing Technologies Symposium (PETS), 2020 (первичный источник — рецензируемая научная статья). DOI: 10.2478/popets-2020-0070
 3. CITP Blog, Princeton University. *No boundaries: Exfiltration of personal data by session-replay scripts*, 15 ноября 2017: https://blog.citp.princeton.edu/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/
-4. Privacy International. *No boundaries: Exfiltration of personal data by session-replay scripts* (обзорный материал с описанием последствий).
+4. Privacy International. *No boundaries: Exfiltration of personal data by session-replay scripts* (обзорный материал с описанием последствий):
+https://privacyinternational.org/examples/1918/no-boundaries-exfiltration-personal-data-session-replay-scripts
 
 ## Известные реальные случаи (из открытых судебных материалов США)
 
