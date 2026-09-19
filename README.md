@@ -7,3 +7,5 @@
 ## [Исследование№1](lesson_01/research_01.md)
 
 ## [Домашнее задание№2](lesson_02/homework_02.md)
+
+## [Домашнее задание№3](lesson_03/homework_03.md)
