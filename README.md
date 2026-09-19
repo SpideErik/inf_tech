@@ -5,3 +5,5 @@
 ## [Домашнее задание№1](lesson_01/homework_01.md)
 
 ## [Исследование№1](lesson_01/research_01.md)
+
+## [Домашнее задание№3](lesson_01/homework_03.md)
