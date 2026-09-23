@@ -71,7 +71,7 @@ https://ga4-test-kozhemiakin.vercel.app/?utm_source=telegram&utm_medium=social&u
 Если значение в GA4 отличается от значения в ссылке, напишите, в чём разница
 и почему так вышло.
 
->
+> У меня все значения совпали, для landing_page указан корень сайта, что соответствует index.html
 
 ## 5. Событие вне отладки
 
@@ -83,11 +83,13 @@ https://ga4-test-kozhemiakin.vercel.app/?utm_source=telegram&utm_medium=social&u
 | Какое событие искали | все новые |
 | Сколько срабатываний показал экран | по 1 |
 
-Скриншот: ![Событие в Realtime](screens/04-realtime.png)`
+Скриншот: 
+
+![Событие в Realtime](screens/04-realtime.png)
 
 Всего видов событий было больше 6, еще один скриношот второй страницы
 
-![Событие в Realtime](screens/05-realtime2.png)`
+![Событие в Realtime](screens/05-realtime2.png)
 
 ## 6. Что эти метрики показывают про сайт
 
