@@ -23,7 +23,7 @@
 | Measurement ID (`G-…`) | G-JCLZ7XSDVT |
 | Коммит с метриками (ссылка или первые 7 символов) | [75407a0](https://github.com/SpideErik/ga4_test_kozhemiakin/commit/75407a08e9924a8cfef5a06206012fb610eb936a) |
 | Статус публикации | READY |
-| Страницы, где подключён `js/metrics.js` |  |
+| Страницы, где подключён `js/script.js` |  |
 
 ## 2. Какие метрики добавлены
 
@@ -36,7 +36,7 @@
 
 Скриншот: 
 
-![Файл scripts.js в проекте и строка подключения](screens/01-code.png)
+![Файл script.js в проекте и строка подключения](screens/01-code.png)
 
 ## 3. События в DebugView
 
