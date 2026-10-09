@@ -15,3 +15,5 @@
 ## [Домашнее задание№5](lesson_05/homework_05.md)
 
 ## [Домашнее задание№6](lesson_06/homework_06.md)
+
+## [Домашнее задание№7](lesson_07/homework_07.md)
