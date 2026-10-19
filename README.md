@@ -14,7 +14,13 @@
 | 6 | [lesson_06](lesson_06/homework_06.md) | повторяемая очистка выгрузки заявок формулами Google Таблиц | `hw-06` |
 | 7 | [lesson_07](lesson_07/homework_07.md) | цепочка Instagram → ManyChat → сайт → заявка в таблице | `hw-07` |
 
-## Ислледования
+## Дополнительные дз
+
+| № | Папка | Что сдаёте | Ветка |
+|---|---|---|---|
+| 1 | [lesson_04_debug_view](lesson_04_debug_view/README.md) | Events и DebugView | `debug-view` |
+
+## Исcледования
 
 ### [Как собирают данные без согласия: инцидент с session replay (2017)](lesson_01/research_01.md)
 (Часть домашней работы 1)
