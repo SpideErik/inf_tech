@@ -9,3 +9,11 @@
 ## [Домашнее задание№2](lesson_02/homework_02.md)
 
 ## [Домашнее задание№3](lesson_03/homework_03.md)
+
+## [Домашнее задание№4](lesson_04/homework_04.md)
+
+## [Домашнее задание№5](lesson_05/homework_05.md)
+
+## [Домашнее задание№6](lesson_06/homework_06.md)
+
+## [Домашнее задание№7](lesson_07/homework_07.md)
